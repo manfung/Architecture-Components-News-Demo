@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Latest News</string>
+    <string name="top_headlines_load_error">Error loading news</string>
+</resources>
